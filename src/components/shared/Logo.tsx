@@ -1,5 +1,4 @@
 import Image from "next/image";
-import * as Checkbox from "@radix-ui/react-checkbox";
 
 export default function Logo() {
   return (
